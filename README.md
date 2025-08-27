@@ -3,10 +3,10 @@ Resources for quantitative finance, mathematics, and general computer science/pr
 
 ## Problem Solving Websites
 ### Project Euler
-https://projecteuler.net/archives
+- https://projecteuler.net/archives
 
 ### LeetCode
-https://leetcode.com/
+- https://leetcode.com/
 
 ## Github Repositories
 - Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds 
