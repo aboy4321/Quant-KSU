@@ -9,8 +9,8 @@ https://projecteuler.net/archives
 https://leetcode.com/
 
 ## Github Repositories
-Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds 
+- Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds 
 https://github.com/cybergeekgyan/Quant-Developers-Resources
 
-A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) 
+- A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) 
 https://github.com/wilsonfreitas/awesome-quant
