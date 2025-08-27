@@ -1,4 +1,4 @@
-# Quant-Resources-4-The-Boys
+# Quant and Computer Science Resources
 Resources for quantitative finance, mathematics, and general computer science/programming, including books, other repositories, programming language libraries (mainly C++ and python), etc.
 
 ## Problem Solving Websites
