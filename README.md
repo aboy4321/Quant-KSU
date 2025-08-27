@@ -8,7 +8,7 @@ Resources for quantitative finance, mathematics, and general computer science/pr
 ### LeetCode
 - https://leetcode.com/
 
-## Github Repositories
+## Github Repositories (Quant)
 - Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds 
 https://github.com/cybergeekgyan/Quant-Developers-Resources
 
@@ -17,5 +17,10 @@ https://github.com/wilsonfreitas/awesome-quant
 
 - A list of ressources for all topics related to quantitative finance!
 https://github.com/SohamDutta2002/Finance?tab=readme-ov-file#Mathematical-Finance
+
+- A list of online resources for quantitative modeling, trading, portfolio management
+https://github.com/EliteQuant/EliteQuant
+
+## Github Repositories (Programming and Computer Science)
 
 
