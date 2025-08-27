@@ -1,5 +1,5 @@
 # Quant-Resources-4-The-Boys
-Resources for quantitative finance, including books, other repositories, programming language libraries (mainly C++ and python), etc.
+Resources for quantitative finance, mathematics, and general computer science/programming, including books, other repositories, programming language libraries (mainly C++ and python), etc.
 
 ## Problem Solving Websites
 ### Project Euler
@@ -14,3 +14,8 @@ https://github.com/cybergeekgyan/Quant-Developers-Resources
 
 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) 
 https://github.com/wilsonfreitas/awesome-quant
+
+- A list of ressources for all topics related to quantitative finance!
+https://github.com/SohamDutta2002/Finance?tab=readme-ov-file#Mathematical-Finance
+
+
