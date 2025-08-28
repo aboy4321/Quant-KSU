@@ -22,5 +22,11 @@ https://github.com/SohamDutta2002/Finance?tab=readme-ov-file#Mathematical-Financ
 https://github.com/EliteQuant/EliteQuant
 
 ## Github Repositories (Programming and Computer Science)
+- A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+https://github.com/trimstray/the-book-of-secret-knowledge
 
+- All algorithms implemented in Python - for education
+https://github.com/TheAlgorithms/Python
 
+- The repository provides implementations of various algorithms in one of the most fundamental general purpose languages
+https://github.com/TheAlgorithms/C-Plus-Plus
