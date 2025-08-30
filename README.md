@@ -30,3 +30,18 @@ https://github.com/TheAlgorithms/Python
 
 - The repository provides implementations of various algorithms in one of the most fundamental general-purpose languages
 https://github.com/TheAlgorithms/C-Plus-Plus
+
+- This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+https://github.com/codecrafters-io/build-your-own-x
+
+- This repository aims to bridge that gap by curating a list of crucial and impactful GitHub repositories.
+https://github.com/sachin-source/top-github-repositories-which-everyone-should-look
+
+- Required site collection for developers
+https://github.com/currenjin/site-for-developers
+
+- A collection of some useful mathematics and computer science courses
+https://github.com/amirabbasasadi/mathematics-computerscience-courses
+
+- This repository contains key mathematical resources in PDF format, specifically curated for Machine Learning enthusiasts and professionals aiming to build a strong foundation in the mathematical concepts required for machine learning.
+https://github.com/rohanmistry231/Mathematics-for-Machine-Learning-Books
