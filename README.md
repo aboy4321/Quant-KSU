@@ -45,3 +45,6 @@ https://github.com/amirabbasasadi/mathematics-computerscience-courses
 
 - This repository contains key mathematical resources in PDF format, specifically curated for Machine Learning enthusiasts and professionals aiming to build a strong foundation in the mathematical concepts required for machine learning.
 https://github.com/rohanmistry231/Mathematics-for-Machine-Learning-Books
+
+- Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+https://github.com/neomatrix369/awesome-ai-ml-dl
